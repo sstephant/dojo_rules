@@ -8,5 +8,6 @@ Deadly skills:
 * JavaScript
 * PHP
 * SQL
+* Killing history using git rebase
 
 よろしくお願いします。
